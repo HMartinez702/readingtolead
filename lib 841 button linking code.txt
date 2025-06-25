@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Newsletter Link</title>
+  <style>
+    .button {
+      background-color: #c8102e;
+      color: white;
+      padding: 12px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .button:hover {
+      background-color: #a10d24;
+    }
+  </style>
+</head>
+<body>
+
+
+  <h2>Check Out Our Monthly Newsletter</h2>
+
+
+  <a href="https://drive.google.com/file/d/your-newsletter-id/view" target="_blank">
+    <button class="button">View Newsletter</button>
+  </a>
+
+
+</body>
+</html>

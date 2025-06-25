@@ -1,0 +1,20 @@
+﻿<!-- Embed a read-aloud audio recording -->
+<figure>
+  <figcaption>Listen to the Read-Aloud:</figcaption>
+  <audio controls>
+    <source src="https://example.com/audio/read-aloud.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</figure>
+
+
+<!-- Embed a read-aloud video -->
+<figure>
+  <figcaption>Watch the Read-Aloud Video:</figcaption>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/VIDEO_ID" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</figure>

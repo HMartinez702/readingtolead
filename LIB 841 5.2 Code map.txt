@@ -1,0 +1,22 @@
+﻿<figure>
+  <img src="https://cdn.pixabay.com/photo/2014/03/25/16/54/books-297521_1280.png"
+       alt="Stack of Books"
+       width="300"
+       title="Public Domain Books">
+  <figcaption>Public domain image of a stack of books from Pixabay.</figcaption>
+</figure>
+ 
+<figure>
+  <img src="https://images.pexels.com/photos/8500306/pexels-photo-8500306.jpeg" 
+       alt="Boy and girl sitting on the floor while holding books" 
+       width="300" 
+       title="Boy and Girl Reading – Pexels RDNE Stock Project">
+  <figcaption>Boy and girl reading books – Public domain image by RDNE Stock Project via Pexels</figcaption>
+</figure>
+ 
+<figure>
+  <img src="https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg"
+       alt="Kids Reading in Library"
+       width="300">
+  <figcaption>Kids reading books in the library – Pexels CDC</figcaption>
+</figure>
